@@ -1,0 +1,13 @@
+.vs
+obj
+*.sln
+*.vcxproj*
+example/bin/*
+example/!bin/data
+
+# Xcode
+Makefile
+config.make
+*.xcconfig
+*.xcodeproj
+*.plist
