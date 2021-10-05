@@ -1,7 +1,7 @@
 #pragma once
 
 #include "ofMain.h"
-#include "ofxPointerRotation/ofxPointerRotation.h"
+#include "ofxPointerRotation.h"
 
 class ofApp : public ofBaseApp{
 
