@@ -2,13 +2,14 @@
 This is addon for openFrameworks.
 It makes parametor that rotation of pointer move.
 
-# Usase
+# Usage
 Please look example code.
 
 # Lisence
 MIT
 
 # Author
-Toru Takata
+tettou771 (Toru Takata)
+github.com/tettou771
 twitter @tettou771
 tettou771@gmail.com
